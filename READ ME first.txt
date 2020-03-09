@@ -1,0 +1,31 @@
+This is simple project made from php
+here we can uplaod a video in database and we can play these saved video
+
+HOW TO RUN ??
+
+step 1: Extract file 
+step 2: copy folder
+step 3: paste in xampp/htdocs
+step 4: open browser  and tye "http://localhost/(foldername)/"
+
+Now, Connect Database
+
+step 5: open browser and tye "http://localhost/phpmyadmin/"
+step 6:(first read the below Note) click on database tab and then click import tab
+step 7: click on browse file and select "localhost.sql" file this file is on "Database" folder
+step 8: go 
+
+And You project ready:
+
+NOTE:
+DON'T FORGET TO CREATE A DATABASE NAMING "player" AND IMPORT THE SQL FILE AND RUN.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+
+
+***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
+
+
+
+#THANK YOU FOR DOWNLOADING
